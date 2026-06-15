@@ -5,7 +5,7 @@ public class Main {
 
         Grafo grafo = new Grafo();
 
-        grafo.carregarArquivo("dados.txt");
+        grafo.carregarArquivo("dados/dados.txt");
 
         grafo.mostrarQuantidadeConexoes();
 
