@@ -1,0 +1,13 @@
+JoanaTimoteo;AmaroCavalcante;2.9
+JoanaTimoteo;AnaReinaldo;5.7
+AmaroCavalcante;AnaReinaldo;5.7
+AnaReinaldo;JoaoGama;13.6
+FranciscoPauloDeOliveira;JoaoGama;14.7
+FranciscoPauloDeOliveira;PedroFernandes;3.6
+JoaoGama;PedroFernandes;11.4
+PedroFernandes;HerculanoDeMelo;14.5
+JoaoGama;PorfiroGabrielDosAnjos;7.6
+PorfiroGabrielDosAnjos;HiginoRoberto;1.5
+PorfiroGabrielDosAnjos;AntonioMartins;7.9
+HiginoRoberto;AntonioMartins;10.4
+AntonioMartins;JoseVicente;12.9
